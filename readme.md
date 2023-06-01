@@ -6,4 +6,4 @@ hello Kelly and Tom!
 
 this is a cat!
 
-this is a dog!
+this is classMate2
